@@ -1,0 +1,15 @@
+/Users/rasul/Documents/Homework2/bin/Debug/net7.0/Homework2
+/Users/rasul/Documents/Homework2/bin/Debug/net7.0/Homework2.deps.json
+/Users/rasul/Documents/Homework2/bin/Debug/net7.0/Homework2.runtimeconfig.json
+/Users/rasul/Documents/Homework2/bin/Debug/net7.0/Homework2.dll
+/Users/rasul/Documents/Homework2/bin/Debug/net7.0/Homework2.pdb
+/Users/rasul/Documents/Homework2/obj/Debug/net7.0/Homework2.csproj.AssemblyReference.cache
+/Users/rasul/Documents/Homework2/obj/Debug/net7.0/Homework2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rasul/Documents/Homework2/obj/Debug/net7.0/Homework2.AssemblyInfoInputs.cache
+/Users/rasul/Documents/Homework2/obj/Debug/net7.0/Homework2.AssemblyInfo.cs
+/Users/rasul/Documents/Homework2/obj/Debug/net7.0/Homework2.csproj.CoreCompileInputs.cache
+/Users/rasul/Documents/Homework2/obj/Debug/net7.0/Homework2.dll
+/Users/rasul/Documents/Homework2/obj/Debug/net7.0/refint/Homework2.dll
+/Users/rasul/Documents/Homework2/obj/Debug/net7.0/Homework2.pdb
+/Users/rasul/Documents/Homework2/obj/Debug/net7.0/Homework2.genruntimeconfig.cache
+/Users/rasul/Documents/Homework2/obj/Debug/net7.0/ref/Homework2.dll
